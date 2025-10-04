@@ -66,3 +66,7 @@ python manage.py runserver
 
 ## License
 This project is provided for educational purposes only. Commercial use is not permitted without explicit permission.
+
+## Author
+Srijil Sunil
+
